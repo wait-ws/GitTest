@@ -4,5 +4,6 @@ public class Test {
         String s = "1234";
         String m = "12345678";
         System.out.println(s+m);
+        System.out.println("lalala");
     }
 }
